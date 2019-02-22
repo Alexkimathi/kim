@@ -1,0 +1,11 @@
+C:\Users\kim\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.2\ConsoleApp13.deps.json
+C:\Users\kim\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.2\ConsoleApp13.runtimeconfig.json
+C:\Users\kim\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.2\ConsoleApp13.runtimeconfig.dev.json
+C:\Users\kim\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.2\ConsoleApp13.dll
+C:\Users\kim\RiderProjects\ConsoleApp13\ConsoleApp13\bin\Debug\netcoreapp2.2\ConsoleApp13.pdb
+C:\Users\kim\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.2\ConsoleApp13.csprojAssemblyReference.cache
+C:\Users\kim\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.2\ConsoleApp13.csproj.CoreCompileInputs.cache
+C:\Users\kim\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.2\ConsoleApp13.AssemblyInfoInputs.cache
+C:\Users\kim\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.2\ConsoleApp13.AssemblyInfo.cs
+C:\Users\kim\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.2\ConsoleApp13.dll
+C:\Users\kim\RiderProjects\ConsoleApp13\ConsoleApp13\obj\Debug\netcoreapp2.2\ConsoleApp13.pdb
